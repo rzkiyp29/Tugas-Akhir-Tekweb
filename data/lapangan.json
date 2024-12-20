@@ -1,0 +1,24 @@
+[
+    {
+      "id": 1,
+      "nama": "Lapangan A",
+      "lokasi": "Jl. Mawar No. 1",
+      "harga": 100000,
+      "gambar": "/lapangan-a.jpg"
+    },
+    {
+      "id": 2,
+      "nama": "Lapangan B",
+      "lokasi": "Jl. Melati No. 2",
+      "harga": 150000,
+      "gambar": "/lapangan-b.jpg"
+    },
+    {
+      "id": 3,
+      "nama": "Lapangan C",
+      "lokasi": "Jl. Anggrek No. 3",
+      "harga": 200000,
+      "gambar": "/lapangan-c.jpg"
+    }
+  ]
+  
